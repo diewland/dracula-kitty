@@ -1,4 +1,4 @@
-# Dracula for [PuTTY](http://www.putty.org/)
+# Dracula for [KiTTY](http://www.9bis.net/kitty/)
 
 > A dark theme for [PuTTY](http://www.putty.org/)
 
